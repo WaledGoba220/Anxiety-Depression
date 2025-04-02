@@ -1,3 +1,18 @@
+## Analysis Steps 📑
+- Understand data & Data Preparation
+
+- Reading and Slicing data
+
+- Handle Missing Value
+
+- Visualization and Handle Outliers
+
+- Label-Encoding || Hot-Encoding
+
+- Visualization Data
+
+
+
 Anxiety and depressive disorders are among the most common psychiatric illnesses; they are highly comorbid with each other, and together they are considered to belong to the broader category of internalizing disorders. Based on statistics from the Substance Abuse and Mental Health Services Administration, the 12-month prevalence of major depressive disorder in 2017 was estimated to be 7.1% for adults and 13.3% for adolescents (1). Data for anxiety disorders are less current, but in 2001–2003, their 12-month prevalence was estimated to be 19.1% in adults, and 2001–2004 data estimated that the lifetime prevalence in adolescents was 31.9% (2, 3). Both anxiety and depressive disorders are more prevalent in women, with an approximate 2:1 ratio in women compared with men during women’s reproductive years (1, 2).
 Across all psychiatric disorders, comorbidity is the rule (4), which is definitely the case for anxiety and depressive disorders, as well as their symptoms. With respect to major depression, a worldwide survey reported that 45.7% of individuals with lifetime major depressive disorder had a lifetime history of one or more anxiety disorder (5). These disorders also commonly coexist during the same time frame, as 41.6% of individuals with 12-month major depression also had one or more anxiety disorder over the same 12-month period. From the perspective of anxiety disorders, the lifetime comorbidity with depression is estimated to range from 20% to 70% for patients with social anxiety disorder (6), 50% for patients with panic disorder (6), 48% for patients with posttraumatic stress disorder (PTSD) (7), and 43% for patients with generalized anxiety disorder (8). Data from the well-known Sequenced Treatment Alternatives to Relieve Depression (STAR*D) study demonstrate comorbidity at the symptom level, as 53% of the patients with major depression had significant anxiety and were considered to have an anxious depression (9).
 Anxiety and depressive disorders are moderately heritable (approximately 40%), and evidence suggests shared genetic risk across the internalizing disorders (10). Among internalizing disorders, the highest level of shared genetic risk appears to be between major depressive disorder and generalized anxiety disorder. Neuroticism is a personality trait or temperamental characteristic that is associated with the development of both anxiety and depression, and the genetic risk for developing neuroticism also appears to be shared with that of the internalizing disorders (11). Common nongenetic risk factors associated with the development of anxiety and depression include earlier life adversity, such as trauma or neglect, as well as parenting style and current stress exposure. At the level of neural circuits, alterations in prefrontal-limbic pathways that mediate emotion regulatory processes are common to anxiety and depressive disorders (12, 13). These findings are consistent with meta-analyses that reveal shared structural and functional brain alterations across various psychiatric illnesses, including anxiety and major depression, in circuits involving emotion regulation (13), executive function (14), and cognitive control (15).
